@@ -1,2 +1,2 @@
 # Stock_predictor
-Website Created along with the Team Members For Hackathon
+Website Created along with a Team Member For Hackathon
